@@ -1,6 +1,6 @@
 <cfscript>
-
-
+  // create wirebox object
+  wirebox = new wirebox.system.ioc.Injector("Config");
 
   aufrufe = [
     {"hallo" = "Hallo", "welt" = "Welt"},
