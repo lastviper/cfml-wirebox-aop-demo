@@ -1,1 +1,2 @@
 
+getDirectoryFromPath(getCurrentTemplatePath()) & "wirebox\"
